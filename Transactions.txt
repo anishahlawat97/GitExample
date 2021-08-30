@@ -1,7 +1,6 @@
 Account Name	Amount
 Anish		10000
 John		1000
-Sharma		500
+Sharma		200
 Willy		50000
 Susan		5000
-Vikas		2000
