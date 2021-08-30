@@ -1,0 +1,6 @@
+Account Name	Amount
+Anish		10000
+John		1000
+Sharma		500
+Willy		50000
+Susan		3000
